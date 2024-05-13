@@ -3,8 +3,8 @@
 
 # Links :
 ### 📂 [NPM](https://www.npmjs.com/package/chatai))
-### 📖 [Document's](https://adem-2.gitbook.io/chatai/))
-### 📝 [Github]((https://github.com/ademjs/chatai))
+### 📖 [Document's](https://adem-2.gitbook.io/chatai/)
+### 📝 [Github]((https://github.com/ademjs/chatai)
 
 # How to install :
 -  Installation For CLI:
